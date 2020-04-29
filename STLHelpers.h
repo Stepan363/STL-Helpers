@@ -918,3 +918,7 @@ typename CONT::key_type  new_map_id( const CONT& m )
 
 };	//	namespace
 
+
+
+// cool work johny7 work more!
+
